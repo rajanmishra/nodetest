@@ -1,0 +1,26 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this is node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanmishra/nodetest.git"
+  },
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "author": "rajan mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanmishra/nodetest/issues"
+  },
+  "homepage": "https://github.com/rajanmishra/nodetest#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
